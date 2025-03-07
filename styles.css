@@ -35,9 +35,9 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
-    text-align: center;
+    text-align: center; /* Centers the text links */
     display: flex;
-    justify-content: center; 
+    justify-content: center; /* Centers horizontally */
 }
 
 .nav li {
@@ -50,4 +50,3 @@
     text-decoration: none;
     color: white;
 }
-
